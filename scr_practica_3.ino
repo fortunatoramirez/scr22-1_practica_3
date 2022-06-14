@@ -6,7 +6,7 @@
 String id = "20211961";
 const char* ssid     = "INFINITUMC2A2_2.4"; 
 const char* password = "Dus2qzqyFC";
-const char* server = "201.174.122.202"; //Enter server adress
+const char* server = "ip.del.ser.ver"; //Enter server adress
 const uint16_t port = 5001; // Enter server port
 uint64_t messageTimestamp;
 int payload_entero;
