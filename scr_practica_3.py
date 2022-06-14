@@ -5,7 +5,7 @@ import speech_recognition as sr
 
 id = "20211961"
 print("Comenzando...")
-socketIO = SocketIO('201.174.122.202', 5001)
+socketIO = SocketIO('ip.del.ser.ver', 5001)
 print("Conectado al servidor.")
 
 led_on = ["LIGHT", "ON"]
